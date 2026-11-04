@@ -32,3 +32,7 @@ lib/
 
 - [PDF.js](https://github.com/mozilla/pdf.js), Apache License 2.0
 - [pdf-lib](https://github.com/Hopding/pdf-lib), MIT License
+
+## License
+
+[MIT](LICENSE). The bundled libraries keep their own licences (see above).
